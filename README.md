@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muzaworld
-- 👀 I’m interested in IOS
-- 🌱 I’m currently learning IOS Developer
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python Developer
 - 💞️ I’m looking to collaborate on Everyone
 - 📫 How to reach me Just sent me PM
 
